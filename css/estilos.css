@@ -12,7 +12,8 @@ p {
 .colorin {
 	width: 500px;
 	height: 500px;
-	background-color: tomato;	
+	background-color: tomato;
+	border: solid 3px yellow;
 }
 
 
